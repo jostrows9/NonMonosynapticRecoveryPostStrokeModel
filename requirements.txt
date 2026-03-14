@@ -1,0 +1,4 @@
+matplotlib 
+neuron 
+numpy 
+scipy 
